@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [MCP41_Simple](#mcp41_simple)
+  - [About MCP41xxx Digital Potentiometers](#about-mcp41xxx-digital-potentiometers)
+  - [Wiring](#wiring)
+  - [Download, Install and Example](#download-install-and-example)
+  - [Troubleshooting](#troubleshooting)
+  - [Full Class Reference](#full-class-reference)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # MCP41_Simple
 Simple Arduino Library for the MCP41 Series Of 8 Bit Digital Potentiometers (MCP41010, MCP41050, MCP41100)
 
