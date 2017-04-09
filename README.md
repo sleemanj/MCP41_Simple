@@ -41,7 +41,7 @@ There really isn't anything to troubleshoot except your wiring, so, check your w
 
 ## Full Class Reference
 
-I recommend to just look at the examples which show you how to use all the features, but if you want the nitty-gritty then here is the [full class reference](https://rawgit.com/sleemanj/MCP41_Simple/d2c5ae1/docs/html/class_p_c_d8544___simple.html)
+I recommend to just look at the examples which show you how to use all the features, but if you want the nitty-gritty then here is the [full class reference](https://rawgit.com/sleemanj/MCP41_Simple/dbacf9a/docs/html/class_m_c_p41___simple.html)
 
 Thanks to the super kind folks of [RawGit](https://rawgit.com/) and [MaxCDN](http://www.maxcdn.com/)
 
