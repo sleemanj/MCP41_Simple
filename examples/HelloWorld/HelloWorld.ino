@@ -3,7 +3,7 @@
  *
  * Wiring:
  * 
- *   MCP41xxx Pin 1 (CS)  => Arduino Pin 10
+ *   MCP41xxx Pin 1 (CS)  => Arduino Pin 10 (see note below)
  *   MCP41xxx Pin 2 (SCK) => Arduino Pin SCK  (13 on Uno/Pro-Mini etc) 
  *   MCP41xxx Pin 3 (SI)  => Arduino Pin MOSI (11 on Uno/Pro-Mini etc)
  *   MCP41xxx Pin 4 (Vss) => Gnd
@@ -13,6 +13,9 @@
  *   MCP41xxx Pin 8 (Vdd) => 5v
  * 
  * Upload sketch and observe the resistance.
+ * 
+ * CS NOTE:  Unlike many other SPI devices, you can not just ground the CS pin
+ *           it must be controlled by the library.
  * 
  * Copyright (C) 2017 James Sleeman
  * 

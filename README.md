@@ -50,7 +50,9 @@ Try the other examples for more excitement.
 
 ## Troubleshooting
 
-There really isn't anything to troubleshoot except your wiring, so, check your wiring.
+The CS pin can not simply be connected to ground like some other SPI devices, it is critical that the library has control over it.
+
+There really isn't anything else to troubleshoot except your wiring, so, check your wiring.
 
 ## Full Class Reference
 
