@@ -36,6 +36,8 @@ MCP41xx  | Arduino
  
 The remaining pins of the MCP41xxx (5, 6 and 7) are the potentiometer pins, which can largely be used like you would a potentiometer.  Pins 5 and 7 are the "ends" and pin 6 is the wiper.  If using as a "variable resistor" the datasheet recommends to tie wiper (6) to the B end (5).  In general, the B end is best to ground if either of them will be I believe.
 
+**MISO Pin on Arduino** it is likely that you will not be able to use the MISO pin on your arduino in addition to the above as your microcontroller probably asserts control over that pin when using SPI, even though we never need to read any data from it ourselves.
+
 ## Download, Install and Example
 
 * Download: http://sparks.gogo.co.nz/MCP41_Simple.zip
