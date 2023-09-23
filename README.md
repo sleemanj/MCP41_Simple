@@ -40,7 +40,7 @@ The remaining pins of the MCP41xxx (5, 6 and 7) are the potentiometer pins, whic
 
 ## Download, Install and Example
 
-* Download: http://sparks.gogo.co.nz/MCP41_Simple.zip
+* Download: https://sparks.gogo.co.nz/MCP41_Simple.zip
 * Open the Arduino IDE (this library was tested in 1.6.13, but older versions should be fine too)
 * Select the menu item Sketch > Import Library > Add Library
 * Choose to install the MCP41_Simple.zip file you downloaded
